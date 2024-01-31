@@ -1,0 +1,93 @@
+body {
+    background-image: linear-gradient(to top, rgb(0, 26, 29), rgb(195, 235, 236));
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    border-radius: 5px;
+    background-image: linear-gradient(to right, cadetblue, yellow);
+}
+
+.O2 {
+    background-color: rgba(116, 118, 255, 0.507);
+    padding: 3px;
+}
+
+main {
+     background-image: linear-gradient(to top, rgb(0, 78, 78),rgb(0, 141, 141));
+}
+
+a {
+    background-color: black;
+    border-radius: 8px;
+}
+
+img {
+    box-shadow: 6px 6px 10px black;
+    margin-right: 4px;
+    border: 3px solid rgb(141, 0, 0);
+}
+
+header {
+    background-image: linear-gradient(to top, rgb(0, 141, 141), rgb(195, 235, 236));
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.Nav{
+    background-image: linear-gradient(to top, rgb(255, 0, 0), black);
+    width:90px;
+    color: aqua;
+}
+
+nav a {
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: red;
+    margin-bottom: 20px;
+    display: block;
+    padding: 5px;
+    text-align: center;
+}
+
+ nav {
+    float: right;
+ }
+
+ div {
+    margin-bottom: 200px;
+ }
+
+ article p {
+    color: white;
+ }
+
+ article {
+    background-image: linear-gradient(to top, black, rgb(0, 78, 78));
+ }
+
+ article .O2 {
+    color:black;
+ }
+
+ article span {
+    color: black;
+ }
+
+ article h2 {
+    color: white;
+ }
